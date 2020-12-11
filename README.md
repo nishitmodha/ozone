@@ -1,3 +1,3 @@
 # README
 
-## Prints the AQI (Air Quality Index) of a city
+## Prints the AQI (Air Quality Index) of a city using API
